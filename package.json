@@ -1,0 +1,24 @@
+{
+  "name": "campusloop",
+  "version": "1.0.0",
+  "description": "CampusLoop - Peer-to-Peer Campus Circular Economy & Sharing Marketplace",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "campus",
+    "circular-economy",
+    "marketplace",
+    "peer-to-peer",
+    "rentals",
+    "students"
+  ],
+  "author": "CampusLoop Team",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^6.2.1"
+  }
+}
